@@ -45,7 +45,7 @@ AI-powered dietary risk analysis and safe food recommendation system tailored fo
 A smart advising platform designed for student support, automated scheduling, and personalized academic recommendations.
 * **Tech Stack:** Python, Flask, Smart Recommendation Systems.
 
-#### 🔍 [Information Retrieval System using TF-IDF](https://github.com/ShahadAlsultan/Information-Retrieval-System-using-TF-IDF)
+#### 🔍 [Information Retrieval System using TF-IDF](https://github.com/ShahadAlsultan/Information-Retrieval-System)
 A text-based document ranking and retrieval application built utilizing fundamental NLP techniques.
 * **Tech Stack:** NLP, Scikit-learn, Python.
 

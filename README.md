@@ -36,6 +36,10 @@
 
 ### 🧩 Featured Projects
 
+#### 🎓 [AI Study Assistant Chatbot](https://github.com/ShahadAlsultan/Study-Assistant-Chat-bot)
+An all-in-one web-based chatbot featuring 7 core interactive tools designed to assist university students with real-time concept explanation, personalized study planning, note summarization, and quiz generation.
+* **Tech Stack:** Python, Flask, Groq API (Llama 3.3 model), HTML/CSS/JavaScript.
+
 #### 🧠 SmartPantry AI
 AI-powered dietary risk analysis and safe food recommendation system tailored for chronic disease patients.
 * **Tech Stack:** Python, Machine Learning, Recommendation Algorithms.
